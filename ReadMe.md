@@ -1,4 +1,5 @@
 图像处理-mfc  no-opencv
+基于对话框的，不使用第三方的库。
 
 <img  src="ui.png" size="40%" />
 
